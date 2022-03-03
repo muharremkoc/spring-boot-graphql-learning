@@ -1,0 +1,26 @@
+type Person{
+    id:Int
+    firstName:String
+    lastName: String
+    age: Int
+
+}
+
+input PersonDto{
+    firstName:String
+    lastName:String
+    age:Int
+}
+
+type Query{
+    allPerson:[Person]
+    getPersonById(id:Int):Person
+}
+
+type Mutation{
+    newPerson(firstName:String!,lastName:String!,age:Int!):Person
+    updatePerson(id:Int!,firstName:String!,lastName:String!,age:Int!):Person
+    deletePerson(id:Int!):Person
+    newPersonWithPersonDto(personDto:PersonDto):Person
+    updatePersonWithPersonDto(id:Int!,personDto:PersonDto!):Person
+}
