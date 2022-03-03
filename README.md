@@ -92,6 +92,7 @@ This Project's Goal,Learning GraphQL in a Spring Boot Application
 - Update A person
 
   - Exist Values
+   
    ![image](https://user-images.githubusercontent.com/80245013/156525994-0547d338-3266-485e-8a9a-3454bc023c9e.png)
    
    - New Values
