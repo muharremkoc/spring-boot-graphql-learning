@@ -68,8 +68,6 @@ This Project's Goal,Learning GraphQL in a Spring Boot Application
  
  - Save A person 
  
- ![image](https://user-images.githubusercontent.com/80245013/156524981-f7ecdf64-47be-4f89-848e-dffa356f92bc.png)
- 
  
  ![image](https://user-images.githubusercontent.com/80245013/156525489-490dc280-2eaa-43ef-b46d-279597fd4d54.png)
 
