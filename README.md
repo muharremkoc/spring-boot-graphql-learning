@@ -74,7 +74,7 @@ This Project's Goal,Learning GraphQL in a Spring Boot Application
  
  - List All Persons
 
- ![image](https://user-images.githubusercontent.com/80245013/156525139-c7286be2-a6b9-44f4-b824-d692ba6d44b4.png)
+![image](https://user-images.githubusercontent.com/80245013/156526722-0ad2f849-d5e8-4be0-bc2b-de1eddcc0b4b.png)
 
  - Get A Person
 
