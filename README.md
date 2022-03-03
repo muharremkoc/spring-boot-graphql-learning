@@ -61,7 +61,7 @@ This Project's Goal,Learning GraphQL in a Spring Boot Application
 
 ```
 
-  And Connect "http://localhost:your Server Port//graphiql
+  And Connect "localhost:"yourServerPort"/graphiql
 
 ---
 ## Using
